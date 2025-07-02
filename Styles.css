@@ -25,9 +25,10 @@ body p /* parrafos de cuerpo de pagina*/
 
 #banner /*imagen encabezado*/
 {
-    background-color: green;
+    background-color:;
     border-radius: 20px;
     background-repeat: no-repeat;
+    background-image: src="imagenes/banner.jpg"; 
     background-size: cover;
     border: 5px solid black;    
     height: 100px;
