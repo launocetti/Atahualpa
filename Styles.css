@@ -15,7 +15,7 @@ body p /* parrafos de cuerpo de pagina*/
 {
     width: 1080px;
     background-color: white;
-    background-image: src="fondo_madera_02.jpg"; 
+    background-image: url(../imagenes/....); 
     margin: 0 auto;
     padding: 10px;
     border: 5px solid #dedede;
@@ -30,9 +30,9 @@ body p /* parrafos de cuerpo de pagina*/
     background-repeat: no-repeat;
     background-image:  url(../imagenes/banner.jpg) ; 
     background-size: cover;
-    border: 5px solid black;    
+    border: 1px solid black;    
     height: 100px;
-    /*width: 100%;*/
+    width: 100%;
 }
 
 .flex-container >div { /*le aplico caracteristicas a los div internos*/
