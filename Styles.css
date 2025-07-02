@@ -31,7 +31,7 @@ body p /* parrafos de cuerpo de pagina*/
     background-image:  url(../imagenes/banner.jpg) ; 
     background-size: cover;
     border: 1px solid black;    
-    height: 100px;
+    height: 50px;
     width: 100%;
 }
 
