@@ -29,7 +29,7 @@ body p /* parrafos de cuerpo de pagina*/
     border-radius: 20px;
     background-repeat: no-repeat;
     background-image:  url(../imagenes/banner.jpg) ; 
-    background-size: cover;
+    background-size: ..;
     border: 1px solid black;    
     height: 150px;
     width: 100%;
