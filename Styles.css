@@ -121,7 +121,7 @@ footer /*pie del body*/
 #nav a:link, nav a:active, nav a:visited
 {
     display: block;
-    color: blue;
+    color: lightblue;
     text-decoration: none;
 }
 
