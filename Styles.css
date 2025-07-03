@@ -45,6 +45,33 @@ body p /* parrafos de cuerpo de pagina*/
     flex-direction: column;
 }
 
+.container .carousel {
+    position: center center;
+    top: 50%;
+    left: 50%;
+    
+}
+.carousel {
+    min-height: 500px;
+}
+
+.carousel .carousel-item {
+    display: flex;
+    flex-direction: colum;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    background: #ccc;
+    width: 500px;
+    height: 500px;
+}
+
+.carousel .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 #content_area /*contenido body*/
 {
     float: left;
