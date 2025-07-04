@@ -90,7 +90,7 @@ body {
   position: relative;
   height: 70vh;
   min-height: 400px;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/placeholder.svg?height=600&width=1200");
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../imagenes/grupo 4.jpeg?height=600&width=1200");
   background-size: cover;
   background-position: center;
   display: flex;
