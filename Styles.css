@@ -115,7 +115,7 @@ body {
 }
 
 .btn-hero {
-  background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(45deg, #212529(--primary-color), #0a58ca(--secondary-color));
   border: none;
   padding: 1rem 2rem;
   font-size: 1.1rem;
