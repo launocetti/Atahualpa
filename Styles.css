@@ -45,7 +45,7 @@ body {
 
 /* ===== NAVBAR RESPONSIVO ===== */
 .navbar-custom {
-  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  background: linear-gradient(135deg, #0a58ca, #86b7fe);
   padding: 1rem 0;
   box-shadow: var(--shadow);
 }
